@@ -1,10 +1,12 @@
-# About Me
 # 👋 Hi, I'm Krishna 
 
+### 📈 Accounts & Administrative Professional | 🌱 Continuous Learner
 
 I'm an Accounts & Administrative professional with experience in **accounting, cash & stock management, reporting, and office administration**.
 
-I’m continuously developing my skills and looking for opportunities to combine my **problem-solving mindset with practical experience** to improve accuracy, efficiency, and daily operations.
+I’m continuously developing my skills and looking for opportunities to combine my **problem solving mindset with practical experience** to improve accuracy, efficiency, and daily operations.
+
+---
 
 ### 🛠️ Tools
 
@@ -14,34 +16,56 @@ Business Operations: **Tally | Microsoft Excel | Power BI | Microsoft Word**
 
 **⚡ Productivity Tools**
 
-Digital Cloud Notes: **Notion**<br>
-AI Assistants: **ChatGPT | Gemini**<br>
+Digital Cloud Notes: **Notion**
+
+AI Assistants: **ChatGPT | Gemini**
+
 Search Engine: **Google**
+
+---
 
 ### 📌 Featured Work
 
-🧾 Accounts & Invoice Management<br>
-📦 Cash & Stock Management<br>
+📦 Cash & Stock Management
+
+🧾  Vendor balance Management 
+
 📊 Financial Reports & Dashboards
+
+---
 
 ### 🎯 Areas of Interest
 
-💡 Critical Thinking & Problem Solving<br>
-💻 Computing & Technology<br>
-⚙️ Process Optimization<br>
+💡 Critical Thinking & Problem Solving
+
+💻 Computing & Technology
+
+⚙️ Process Optimization
+
 🌱 Continuous Learning
 
-### 📚 Currently Learning
-   **Taxation | HR & Payroll**
+---
 
+### 📚 Currently Learning
+
+**Taxation | HR & Payroll**
+
+---
+
+### 💬 Personal Philosophy
 > *“Curiosity drives me to learn. Learning drives me to improve.”*
+
+---
 
 ### 📫 Contact
 
-**Email:** *pkrishna.contact@gmail.com<br>*
+**Email:** pkrishna.contact@gmail.com
 
-**Outlook:** *krishnaoffcial@outlook.com<br>*
+**Outlook:** krishnaoffcial@outlook.com
+
 
 <p align="center">
   <b> நன்றி 🙏</b>
 </p>
+
+---
