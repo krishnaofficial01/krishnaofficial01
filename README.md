@@ -53,7 +53,7 @@ Search Engine: **Google**
 ---
 
 ### 💬 Personal Philosophy
-> *“Curiosity drives me to learn. Learning drives me to improve.”*
+> *“Progress over P e r f e c t i o n”*
 
 ---
 
