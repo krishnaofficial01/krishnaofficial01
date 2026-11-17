@@ -1,4 +1,4 @@
-<img width="640" height="360" alt="i&#39;m krishna" src="https://github.com/user-attachments/assets/9030b5ae-39e3-4972-a91f-9edb83f6a13a" />
+<img width="640" height="360" alt="i&#39;m krishna" src="https://github.com/user-attachments/assets/d7c619a3-4be9-4d86-99e9-fbf47414e620" />
 
 # 👋 Hi, I'm Krishna 
 
